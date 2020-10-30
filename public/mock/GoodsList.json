@@ -1,0 +1,18 @@
+{
+  "isSuccess": true,
+  "data": {
+    "total": 3,
+    "list": [
+      {
+        "id": 1,
+        "name": "可乐",
+        "price": 10
+      },
+      {
+        "id": 2,
+        "name": "雪碧",
+        "price": 11
+      }
+    ]
+  }
+}
